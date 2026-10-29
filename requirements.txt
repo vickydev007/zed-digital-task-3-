@@ -1,0 +1,13 @@
+# Requirements for FEDS Technical Assignment - Problem Statement 3
+# ₹50 Note Detector
+
+# For live webcam testing (test.py):
+opencv-python>=4.8.0
+numpy>=1.23.0
+pillow>=9.0.0
+
+# For model training & ONNX export (train.py):
+ultralytics>=8.0.0
+onnx>=1.14.0
+torch>=2.0.0
+torchvision>=0.15.0

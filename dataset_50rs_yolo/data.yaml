@@ -1,0 +1,9 @@
+# YOLOv8/YOLO11 Dataset Configuration for 50 Rupees Note Detection
+path: d:/onlline downloads/dataset/dataset_50rs_yolo
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes
+names:
+  0: 50_rupees
