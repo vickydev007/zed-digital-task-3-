@@ -11,3 +11,6 @@ runs/
 .DS_Store
 Thumbs.db
 *.log
+
+# Debug visualization
+annotated_visualized_50rs/
